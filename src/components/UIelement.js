@@ -7,21 +7,21 @@ const plans = [
       ram: '12GB',
       cpus: '6 CPUs',
       disk: '160 GB SSD disk',
-      url: 'https://res.cloudinary.com/gravital-digital/image/upload/v1651974579/firefox_lEpZHqoS5u_onedku.png',
+      url: 'https://unsplash.com/photos/_BgjTlK6-dU',
     },
     {
       name: 'Drupal',
       ram: '16GB',
       cpus: '8 CPUs',
       disk: '512 GB SSD disk',
-      url: 'https://res.cloudinary.com/gravital-digital/image/upload/v1651357352/highway-optimized_uermbx.jpg',
+      url: 'https://unsplash.com/photos/g5ZM33jizAw',
     },
     {
       name: 'Shopify',
       ram: '32GB',
       cpus: '12 CPUs',
       disk: '1024 GB SSD disk',
-      url: 'https://res.cloudinary.com/gravital-digital/image/upload/v1651353488/firefox_6Etr7aTTso_ivwgid.png',
+      url: 'https://unsplash.com/photos/i3IGfRua158',
     },
   ]
   
@@ -123,7 +123,7 @@ export default function Leadin() {
                <div className="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 lg:max-w-none lg:px-0">
                <img
                     className="w-full lg:absolute lg:inset-y-0 lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
-                    src='https://res.cloudinary.com/gravital-digital/image/upload/v1651353488/firefox_6Etr7aTTso_ivwgid.png'
+                    src='https://unsplash.com/photos/_BgjTlK6-dU'
                     alt=""
                   />
                 </div>
